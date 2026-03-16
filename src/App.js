@@ -7,7 +7,7 @@ import Contact from './pages/Contact.jsx';
 import About from './pages/About.jsx';
 import Navbar from './components/Navbar.jsx';
 import Cart from './components/Cart.jsx';
-import Style from './Style.css';
+import './Style.css';
 
 
 
